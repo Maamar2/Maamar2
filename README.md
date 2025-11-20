@@ -1,4 +1,7 @@
 # 💫 About Me:
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRkNWtuaDRmYW5rbmt6ZTduN3k4ODVyeHZ4OTczeTVhamc1aXY5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif" alt="GIF of breaking things" width="300"/>
+</p>
 Maamar <br>Working from home <br>can hack and code and do all sort of stuff 
 
 
